@@ -8,7 +8,7 @@ Contains usage with `node-sass` for comparison.
 Contains `site.scss` which imports `_common.scss`. The imported file has been saved as UTF-8 with BOM.
 
 ## Run
-`npm run build-dart`
+`npm run build-dart`  
 `npm run build-node`
 
 node-sass version compiles, dart-sass fails.
